@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c67e45b-8099-412f-a0bf-2c2624402f13" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/group.py" afterPath="$PROJECT_DIR$/model/group.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/add_test.py" afterPath="$PROJECT_DIR$/test/add_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_test.py" afterPath="$PROJECT_DIR$/add_test.py" />
     </list>
     <ignored path="python_training.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +30,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="add_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/add_test.py">
+        <entry file="file://$PROJECT_DIR$/test/add_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.6611111">
               <caret line="14" column="8" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="9" />
@@ -43,7 +42,7 @@
         </entry>
       </file>
       <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application.py">
+        <entry file="file://$PROJECT_DIR$/fixture/application.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -206,6 +205,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Goblik\Source\Repos\python_training\test" />
+      <recent name="C:\Users\Goblik\Source\Repos\python_training\fixture" />
       <recent name="C:\Users\Goblik\Source\Repos\python_training\model" />
     </key>
   </component>
@@ -221,7 +222,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_training" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Goblik\Source\Repos\python_training\test\add_test.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -485,7 +486,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457246725743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="konets 2_2 - ok-проходит">
+      <created>1457248038539</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1457248038539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -559,7 +566,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactoring finish" />
     <MESSAGE value="konets 2_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="konets 2_2" />
+    <MESSAGE value="konets 2_2 - ok-проходит" />
+    <option name="LAST_COMMIT_MESSAGE" value="konets 2_2 - ok-проходит" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -568,7 +576,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/add_test.py">
+    <entry file="file://$PROJECT_DIR$/test/add_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -594,7 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application.py">
+    <entry file="file://$PROJECT_DIR$/fixture/application.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -602,7 +610,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_test.py">
+    <entry file="file://$PROJECT_DIR$/test/add_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6611111">
           <caret line="14" column="8" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="9" />

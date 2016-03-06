@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import pytest
+from fixture.application import Application
 from model.group import Group
-from application import Application
 
 
 @pytest.fixture
