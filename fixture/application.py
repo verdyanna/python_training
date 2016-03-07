@@ -11,10 +11,17 @@ class Application:
         self.session = SessionHelper(self)
         self.group = GroupHelper(self)
 
+    def is_valid(self):
+        try:
+            self.wd.current_url
+            return True
+        except:
+            return False
+
     def open_home_page(self):
 
-        wd = self.wd
-        wd.get("http://localhost/addressbook/")
+         wd = self.wd
+         wd.get("http://localhost/addressbook/")
 
     def distroy(self):
 
